@@ -1,9 +1,0 @@
-Shortly before the defense, I went to my repository and saw that on the 2nd, 
-in the turmoil and haste, I uploaded the wrong ipynb file (draft), 
-so I uploaded the correct file later. This happened by accident and did not have any selfish intent.
-
----
-
-Незадолго до защиты я зашел на свой репозиторий и увидел, 
-что 2 числа я в суматохе и спешке загрузил не тот ipynb-файл (черновой), 
-поэтому я загрузил верный файл позже. Это вышло случайно и не несло в себе корыстного умысла
